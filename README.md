@@ -1,6 +1,8 @@
 # Paper Notes — Cẩm nang in hộp giấy
 
-Microsite 4 trang dành cho GitHub Pages: thiết kế editorial, responsive, có minh họa SVG riêng, bộ lọc lựa chọn hộp, checklist tương tác và liên kết biên tập đến dịch vụ Tân Hoa Mai.
+Microsite 4 trang dành cho GitHub Pages: thiết kế editorial, responsive, có minh họa SVG riêng, bộ lọc lựa chọn hộp, checklist tương tác, sử dụng logo Tân Hoa Mai ở header/footer và liên kết biên tập đến dịch vụ Tân Hoa Mai.
+
+**Dịch vụ tham khảo:** [in hộp giấy](https://tanhoamai.com.vn/in-hop-giay/) tại Tân Hoa Mai.
 
 ## Các tệp
 - `index.html` — trang chủ / landing cẩm nang.
@@ -9,6 +11,7 @@ Microsite 4 trang dành cho GitHub Pages: thiết kế editorial, responsive, c�
 - `checklist-dat-in.html` — checklist 12 mục và mẫu yêu cầu sao chép.
 - `assets/css/style.css`, `assets/js/main.js` — giao diện và tương tác.
 - `assets/img/*.svg` — bộ 6 hình minh họa vector gốc và favicon; không phụ thuộc hosting ảnh ngoài.
+- `assets/img/tan-hoa-mai-logo.png` — logo Tân Hoa Mai do bạn cung cấp, dùng trong header và footer.
 
 ## Đăng GitHub Pages
 1. Đăng nhập tài khoản GitHub bạn muốn sử dụng.
