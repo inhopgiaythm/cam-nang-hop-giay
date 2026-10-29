@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-label="Minh họa ý tưởng bao bì giấy">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ece8dd"/><stop offset="1" stop-color="#cdc8ba"/></linearGradient>
+ <linearGradient id="ivory" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf1"/><stop offset="1" stop-color="#d8d1bd"/></linearGradient>
+ <linearGradient id="clay" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d29776"/><stop offset="1" stop-color="#9e5c47"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c6a479"/><stop offset="1" stop-color="#967350"/></linearGradient>
+ <linearGradient id="forest" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#476756"/><stop offset="1" stop-color="#23392e"/></linearGradient>
+ <pattern id="grain" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="1" cy="3" r=".55" fill="#4b4a3d" opacity=".12"/><circle cx="6" cy="7" r=".5" fill="#4b4a3d" opacity=".09"/></pattern>
+ <filter id="shadow" x="-30%" y="-40%" width="160%" height="200%"><feGaussianBlur stdDeviation="24"/></filter>
+ <filter id="soft" x="-30%" y="-40%" width="160%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1000" height="700" fill="#e5e5d9"/><circle cx="157" cy="548" r="200" fill="#d7d7c8"/><ellipse cx="531" cy="566" rx="337" ry="55" fill="#61594b" opacity=".22" filter="url(#shadow)"/>
+<polygon points="265,352 549,285 762,369 474,445" fill="#324c3d"/><polygon points="265,352 474,445 474,581 265,495" fill="#1d3228"/><polygon points="474,445 762,369 762,509 474,581" fill="url(#forest)"/>
+<polygon points="291,356 549,298 728,369 473,426" fill="#927b61"/><polygon points="329,357 546,308 693,369 471,415" fill="#bea47e"/><polygon points="384,363 545,328 651,369 473,404" fill="#e9dcc6"/><path d="M424 373 L551 345" stroke="#b8a07a" stroke-width="2"/>
+<polygon points="310,235 605,164 764,235 464,315" fill="#42614e"/><polygon points="310,235 464,315 464,335 310,256" fill="#263e32"/><polygon points="464,315 764,235 764,258 464,335" fill="#324e3d"/>
+<path d="M510 257 L641 221" stroke="#d6b98a" stroke-width="2"/><text x="509" y="251" transform="rotate(-13 509 251)" fill="#f2dfb8" font-family="Georgia,serif" font-size="27" letter-spacing="4">MAISON</text>
+<text x="73" y="105" font-family="Arial,sans-serif" fill="#93826c" font-size="13" letter-spacing="5">02 / RIGID GIFT BOX</text><path d="M76 122H267" stroke="#b6a492"/>
+</svg>

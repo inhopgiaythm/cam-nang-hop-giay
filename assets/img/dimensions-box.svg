@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-label="Minh họa ý tưởng bao bì giấy">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e1e7d9"/><stop offset="1" stop-color="#cdc8ba"/></linearGradient>
+ <linearGradient id="ivory" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf1"/><stop offset="1" stop-color="#d8d1bd"/></linearGradient>
+ <linearGradient id="clay" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d29776"/><stop offset="1" stop-color="#9e5c47"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c6a479"/><stop offset="1" stop-color="#967350"/></linearGradient>
+ <linearGradient id="forest" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#476756"/><stop offset="1" stop-color="#23392e"/></linearGradient>
+ <pattern id="grain" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="1" cy="3" r=".55" fill="#4b4a3d" opacity=".12"/><circle cx="6" cy="7" r=".5" fill="#4b4a3d" opacity=".09"/></pattern>
+ <filter id="shadow" x="-30%" y="-40%" width="160%" height="200%"><feGaussianBlur stdDeviation="24"/></filter>
+ <filter id="soft" x="-30%" y="-40%" width="160%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1000" height="700" fill="#e3e6d8"/><path d="M0 602H1000" stroke="#b0beaf"/><ellipse cx="489" cy="574" rx="336" ry="60" fill="#687568" opacity=".21" filter="url(#shadow)"/>
+<polygon points="267,220 531,155 771,240 504,311" fill="#d9b78e"/><polygon points="267,220 504,311 504,559 267,459" fill="#b58f68"/><polygon points="504,311 771,240 771,491 504,559" fill="url(#wood)"/><path d="M321 283 L452 337 M321 312L452 367" stroke="#dfc6a4" opacity=".6"/><polygon points="298,233 538,179 732,244 496,294" fill="#efddbd" opacity=".75"/>
+<path d="M813 243 H855 M813 491 H855 M839 244 V490" fill="none" stroke="#43624c" stroke-width="2"/><path d="M831 254 L839 243 L847 254 M831 481L839 491L847 481" stroke="#43624c" stroke-width="2" fill="none"/><text x="864" y="377" font-family="Arial,sans-serif" fill="#43624c" font-size="17">C</text>
+<path d="M502 591 L764 519 M500 607 L772 537" stroke="#43624c" stroke-width="1.8"/><path d="M520 590L503 591L515 577 M753 532L772 537L759 550" stroke="#43624c" stroke-width="2" fill="none"/><text x="637" y="589" font-family="Arial,sans-serif" fill="#43624c" font-size="17">D</text>
+<text x="75" y="108" font-family="Arial,sans-serif" fill="#6e8576" font-size="13" letter-spacing="4">DIMENSIONS / STRUCTURE</text><path d="M75 124H290" stroke="#8ca38f"/>
+</svg>

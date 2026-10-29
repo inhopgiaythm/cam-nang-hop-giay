@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-label="Minh họa ý tưởng bao bì giấy">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ede5d8"/><stop offset="1" stop-color="#cdc8ba"/></linearGradient>
+ <linearGradient id="ivory" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf1"/><stop offset="1" stop-color="#d8d1bd"/></linearGradient>
+ <linearGradient id="clay" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d29776"/><stop offset="1" stop-color="#9e5c47"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c6a479"/><stop offset="1" stop-color="#967350"/></linearGradient>
+ <linearGradient id="forest" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#476756"/><stop offset="1" stop-color="#23392e"/></linearGradient>
+ <pattern id="grain" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="1" cy="3" r=".55" fill="#4b4a3d" opacity=".12"/><circle cx="6" cy="7" r=".5" fill="#4b4a3d" opacity=".09"/></pattern>
+ <filter id="shadow" x="-30%" y="-40%" width="160%" height="200%"><feGaussianBlur stdDeviation="24"/></filter>
+ <filter id="soft" x="-30%" y="-40%" width="160%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1000" height="700" fill="url(#bg)"/><circle cx="800" cy="140" r="250" stroke="#c2b5a4" stroke-width="1" fill="none"/><path d="M0 600 Q500 520 1000 615" stroke="#b6af9f" fill="none"/><ellipse cx="515" cy="577" rx="297" ry="62" fill="#695f51" opacity=".22" filter="url(#shadow)"/>
+<polygon points="320,201 544,139 698,216 465,279" fill="#fffaed"/><polygon points="320,201 465,279 465,583 320,499" fill="#d5cfbe"/><polygon points="465,279 698,216 698,525 465,583" fill="url(#ivory)"/><path d="M465 279L698 216" stroke="#b9ac98"/><path d="M510 320H655 M510 519H655" stroke="#acac9d" opacity=".5"/><text x="506" y="389" font-family="Georgia,serif" font-size="44" letter-spacing="4" fill="#354b3d">nõra.</text><text x="511" y="412" font-family="Arial,sans-serif" font-size="11" letter-spacing="4" fill="#64766a">EVERYDAY ESSENTIALS</text><path d="M577 455 C603 416 614 418 628 435" fill="none" stroke="#6f8f72" stroke-width="3"/><circle cx="615" cy="463" r="15" stroke="#86977b" fill="none"/>
+<text x="67" y="100" font-family="Arial,sans-serif" fill="#a38a73" font-size="13" letter-spacing="5">01 / FOLDING BOX</text><path d="M70 117 H235" stroke="#bba992"/>
+</svg>
